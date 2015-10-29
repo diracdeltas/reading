@@ -1,6 +1,6 @@
-# reading
+# read me
 
-what i'm reading. `writing/` contains things i'm writing; most of it ends up on
+a list of stuff i'm reading. `writing/` contains things i'm writing; most of it ends up on
 the [blog](https://zyan.scripts.mit.edu/blog/).
 
 ## technical papers and books
