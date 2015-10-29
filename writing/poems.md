@@ -2,6 +2,7 @@
 
 ## 7 april 2012
 
+```
 so I don’t know whether to turn around at your doorway
 so hesitation drips the milk from sore eyes
 so I scratch the walls
@@ -44,9 +45,11 @@ guitar strings and
 unfinished crosswords and
 laundry on the floor as teacups chatter impassively
 a gigabyte of sunlight melting losslessly into red red shadows
+```
 
 ## 15 november 2012
 
+```
 do you suffer from depression
 i want to ask but meanwhile
 electronic trance pours a silky tea into our ears
@@ -70,9 +73,11 @@ perhaps i kneel at the threshold of consciousness
 building churches out of slender touch, parsimonious and fragile.
 
 for hours, you traced circles on my skin
+```
 
-# 24 november 2012
+## 24 november 2012
 
+```
 40 minutes in Tribeca on the way from Newtown to Boston
 is all we have
 before the parking meter runs out
@@ -94,3 +99,4 @@ the jar is running out
 but the grocery store is closed.
 
 87% of bathrooms in Tribeca are for employees only.
+```
