@@ -4,6 +4,7 @@ a list of stuff i'm reading. `writing/` contains things i'm writing; most of it 
 the [blog](https://zyan.scripts.mit.edu/blog/).
 
 ## technical papers and books
+* [efficient gossip protocols for verifying the consistency of certificate logs](http://arxiv.org/abs/1511.01514) (started 11/9)
 * [intel x86 considered harmful](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf) (started 10/15)
 * [an empirical analysis of email delivery
   security](http://conferences2.sigcomm.org/imc/2015/papers/p27.pdf) (finished 10/15): notable/belated research on the failure of STARTTLS opportunistic security. particularly scary: hotels, airports, and airlines have been found to perform STARTTLS stripping. i would like to see a follow-up scan estimating the percentage of STARTTLS connections with fradulent certificates.
