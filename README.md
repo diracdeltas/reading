@@ -4,12 +4,12 @@ a list of stuff i'm reading. `writing/` contains things i'm writing; most of it 
 the [blog](https://zyan.scripts.mit.edu/blog/).
 
 ## technical papers and books
-* [efficient gossip protocols for verifying the consistency of certificate logs](http://arxiv.org/abs/1511.01514) (started 11/9)
-* [intel x86 considered harmful](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf) (started 10/15)
+* [efficient gossip protocols for verifying the consistency of certificate logs](http://arxiv.org/abs/1511.01514) (started 11/9/15)
+* [intel x86 considered harmful](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf) (started 10/15/15)
 * [an empirical analysis of email delivery
-  security](http://conferences2.sigcomm.org/imc/2015/papers/p27.pdf) (finished 10/15): notable/belated research on the failure of STARTTLS opportunistic security. particularly scary: hotels, airports, and airlines have been found to perform STARTTLS stripping. i would like to see a follow-up scan estimating the percentage of STARTTLS connections with fradulent certificates.
+  security](http://conferences2.sigcomm.org/imc/2015/papers/p27.pdf) (finished 10/15/15): notable/belated research on the failure of STARTTLS opportunistic security. particularly scary: hotels, airports, and airlines have been found to perform STARTTLS stripping. i would like to see a follow-up scan estimating the percentage of STARTTLS connections with fradulent certificates.
 * [getting started with bluetooth low
-  energy](https://www.safaribooksonline.com/library/view/getting-started-with/9781491900550/) (started 10/15)
+  energy](https://www.safaribooksonline.com/library/view/getting-started-with/9781491900550/) (started 10/15/15)
 * [advanced programming in the unix environment](http://www.apuebook.com/) (started 8/15): taught me a lot of fundamental things about UNIX. i put this in the "really dry bedtime reading" category though.
 
 ## other nonfiction
@@ -17,7 +17,7 @@ the [blog](https://zyan.scripts.mit.edu/blog/).
   violence](http://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465061710) (in progress): reading this for book club
 * [midwestern nice: a tribute to a sincere and suffocating way of
   life](https://www.thrillist.com/lifestyle/nation/my-life-living-midwestern-nice): literally couldn't make it through this in one sitting because it brought up so many overwhelming memories of growing up in the midwest.
-* [attached](http://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139) (in progress): recommended by a friend. i think it's alright. i find myself applying attachment theory to all sorts of social situations now that i've read half of it. although it is frustratingly geared towards classical relationship arcs (monogamous, marriage-centric, equating escalation of closeness with positive progress), it's taught me a lot about how i compare to other people.
+* [attached](http://www.amazon.com/Attached-Science-Adult-Attachment-YouFind/dp/1585429139) (finished 11/11/15): recommended by a friend. i think it's alright. i find myself applying attachment theory to all sorts of social situations now that i've read half of it. although it is frustratingly geared towards classical relationship arcs (monogamous, marriage-centric, equating escalation of closeness with positive progress), it's taught me a lot about how i compare to other people. it's repetitive and says a lot of obvious things. i liked the section about effective communication near the end; however, having finished it, i think i got 90% of the actionable lessons from the first 20% of the book.
 * [POC||GTFO 0x08](https://www.alchemistowl.org/pocorgtfo/pocorgtfo08.pdf): my
   first poc||gtfo. i loved it dearly. inspired a couple of my recent projects.
 * [9/11: the view from the
